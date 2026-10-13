@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+data.db
+training_log.db
+traffic_model.keras
+.venv/
+venv/
